@@ -1,2 +1,2 @@
 # ECommerce-website
-ECommerce website Practice
+ECommerce website for online reading or online Library management 
