@@ -1,0 +1,47 @@
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.5rem;
+        }
+        .hero-section {
+            background: url('https://images.unsplash.com/photo-1512820790803-83ca734da794') no-repeat center center/cover;
+            color: white;
+            padding: 100px 0;
+            text-align: center;
+        }
+        .hero-section h1 {
+            font-size: 3rem;
+            font-weight: bold;
+        }
+        .hero-section p {
+            font-size: 1.25rem;
+        }
+        .btn-primary, .btn-outline-light {
+            margin: 10px;
+        }
+        .genre-section {
+            padding: 60px 0;
+            background-color: #f8f9fa;
+        }
+        .genre-section h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-weight: bold;
+        }
+        .genre-card {
+            border: none;
+            transition: transform 0.2s;
+        }
+        .genre-card:hover {
+            transform: scale(1.05);
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+    
